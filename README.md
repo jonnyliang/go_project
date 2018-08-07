@@ -1,1 +1,1 @@
-# ipmi condition detection program
+# ipmi ： An ipmi condition detection program
